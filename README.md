@@ -58,8 +58,57 @@ O repositório contém os seguintes arquivos principais:
 *   SciPy: Funções científicas e técnicas (utilizado para `cKDTree`).
 *   Jupyter Notebook: Ambiente interativo para desenvolvimento e apresentação.
 
-## Contribuições
+## Insights
+<img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/3b054772-10e5-4d5d-9b1d-5cc7a3bf8d4f" />
+* A partir do gráfico, fica clara a necessidade de uma analise mais precisa sobre as rodovias BR-101 e BR-116, onde vem ocorrendo diversos acidentes e com pouco ou nenhum radar na regiao. Os quilômetros exatos, como "km-66", "km-68", "km-229" e "km-212", também são indicativos de áreas específicas propensas a acidentes.
 
-Contribuições são bem-vindas! Se você tiver sugestões de melhoria, novas análises ou identificar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+* 115 rodovias federais têm registros de acidentes na base de dados analisada.
+
+* A BR-101 é a rodovia com o maior número de registros de acidentes, totalizando 11.634 registros.
+
+* A quantidade de acidentes registrados nas BR-101 e BR-116 representa 33,11% do total de acidentes.
+
+* Dentre essas rodovias, os motivos mais presentes são: acessar a via sem observar a presença de outro condutor e reação tardia ou ineficiente do condutor.
+
+* Necessidade de Fiscalização: a ausência de radares em muitos trechos críticos destaca a necessidade de medidas de fiscalização e controle de velocidade nessas áreas, para reduzir o número de acidentes com vítimas.
+
+* Os acidentes com vítimas representam 76,7%; os acidentes sem vítimas, 14%; e os acidentes com vítimas fatais, 7,2%.
+
+* 42.754 acidentes ocorrem a menos de 1 km de um radar.
+
+* Em média, os acidentes ocorrem a 2,56 km de distância de um radar.
+
+* Os motivos que mais causam acidentes a menos de 1 km de um radar são:
+
+* Reação tardia ou ineficiente do condutor: 7.002 ocorrências
+
+* Ausência de reação do condutor: 6.479 ocorrências
+
+* Acessar a via sem observar a presença dos outros veículos: 3.688 ocorrências
+
+* Velocidade incompatível: 3.101 ocorrências
+
+* Apesar de uma grande quantidade de acidentes ocorrer a menos de 1 km de um radar, as principais causas nesses locais parecem estar mais relacionadas a falhas humanas na reação ou atenção, e não diretamente à velocidade incompatível, embora esta última ainda seja uma causa relevante. Isso pode indicar que a presença do radar influencia a velocidade, mas outros fatores de comportamento do motorista ainda contribuem para acidentes próximos.
+
+* Em acidentes distantes de radares, há uma proporção maior de ocorrências com vítimas fatais, podendo estar relacionado com a velocidade.
+
+* Em acidentes próximos a radares, “Dupla” é o tipo mais comum; enquanto em acidentes distantes, “Simples” lidera.
+
+* A regional SPRF-MG é a mais comum em acidentes próximos a radares, enquanto a SPRF-BA lidera em acidentes distantes.
+
+* MG, SC, PR, RJ, RS e SP são os estados com maior número de acidentes.
+
+* Colisão traseira, saída do leito carroçável e colisão transversal são os tipos mais frequentes de acidentes em geral.
+
+* A maior parte dos acidentes ocorre durante o dia e com céu claro.
+
+* As principais causas de acidentes nas rodovias envolvem falhas humanas.
+
+* durante o ano, o maior numero de acidentes ocorreu no mes de dezembro
+
+* o maior numero de acidentes ocorre entre as 5 e 10 da manha e entre as 15 e 20 horas, principalmente as 7 horas e as 18 horas. esses horarios estao ligados com os famosos 'horarios de pico' nas cidades.
+
+
+
 
 ---
